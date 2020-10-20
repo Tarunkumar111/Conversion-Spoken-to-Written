@@ -12,11 +12,10 @@ setup(
 	  name = 'spoken2written',
       packages = ['spoken2written'],
       version='0.1',
-      license=open('LICENSE.txt').read(),
       description='Convert Spoken English given as text to Written English ',
-      author='Vishal Dhiman',
-      author_email='cse_vishal@hotmail.com',
-      url='https://github.com/cyberdhiman/Spoken-To-Written-English',
+      author='Tarun KUmar',
+      author_email='tarunkumarjee58@gmail.com',
+      url='https://github.com/Tarunkumar111/Conversion-Spoken-to-Written',
       classifiers = [
      					 'Intended Audience :: Developers',
       					'Programming Language :: Python'
